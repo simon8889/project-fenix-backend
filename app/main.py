@@ -35,10 +35,25 @@ app = FastAPI(
 )
 
 # Configurar CORS
-origins = os.getenv("CORS_ORIGINS", "http://localhost:5173").split(",")
+# Permitir orígenes desde variable de entorno + dominios predeterminados
+default_origins = [
+    "http://localhost:5173",
+    "http://localhost:3000",
+    "https://project-fenix-frontend-sooty.vercel.app",
+]
+
+# Agregar orígenes adicionales desde variable de entorno si existe
+env_origins = os.getenv("CORS_ORIGINS", "")
+if env_origins:
+    additional_origins = [origin.strip() for origin in env_origins.split(",") if origin.strip()]
+    default_origins.extend(additional_origins)
+
+# Eliminar duplicados
+origins = list(set(default_origins))
+
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=[origin.strip() for origin in origins],
+    allow_origins=origins,
     allow_credentials=True,
     allow_methods=["GET", "POST", "PUT", "DELETE", "OPTIONS"],
     allow_headers=["*"],
