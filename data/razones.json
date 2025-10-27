@@ -1,0 +1,142 @@
+[
+  {
+    "id": 1,
+    "puntos_requeridos": 5,
+    "categoria": "divertida",
+    "texto": "Porque ya me peliquié jejejeje",
+    "emoji": "💇‍♂️"
+  },
+  {
+    "id": 2,
+    "puntos_requeridos": 10,
+    "categoria": "emocional", 
+    "texto": "Porque trabajaré en mí día y noche para mejorar y sanar mi corazón para ser una mejor persona para ti",
+    "emoji": "💪"
+  },
+  {
+    "id": 3,
+    "puntos_requeridos": 15,
+    "categoria": "amosh",
+    "texto": "Porque mi corazón tiene cantidades industriales de amor para darte, tengo una fabriquita de amosh para Maiana en mí",
+    "emoji": "🏭"
+  },
+  {
+    "id": 4,
+    "puntos_requeridos": 20,
+    "categoria": "logro",
+    "texto": "Este significa que tengo la oportunidad de llevarte un día a darte una vueltita por ahí y sacarte sonrisitas",
+    "emoji": "🚗"
+  },
+  {
+    "id": 5,
+    "puntos_requeridos": 25,
+    "categoria": "divertida",
+    "texto": "Porque te puedo sacar sonrisitas con mis bobadas y soy resistente a patadas, puños y tus besos matadores, nena",
+    "emoji": "🤪"
+  },
+  {
+    "id": 6,
+    "puntos_requeridos": 30,
+    "categoria": "divertida",
+    "texto": "Porque Plutón no se puede quedar sin su amiguito, yyyyyy porque me puedes usar para limpiarle la arena",
+    "emoji": "🐕"
+  },
+  {
+    "id": 7,
+    "puntos_requeridos": 35,
+    "categoria": "profunda",
+    "texto": "Porque no hay amor más sincero que el que siento por ti",
+    "emoji": "💕"
+  },
+  {
+    "id": 8,
+    "puntos_requeridos": 40,
+    "categoria": "logro",
+    "texto": "Me debes un abracito bien fuertecito",
+    "emoji": "🤗"
+  },
+  {
+    "id": 9,
+    "puntos_requeridos": 45,
+    "categoria": "divertida",
+    "texto": "Porque hice un máster y tengo años de experiencia en cosquillología marianística",
+    "emoji": "🎓"
+  },
+  {
+    "id": 10,
+    "puntos_requeridos": 50,
+    "categoria": "profunda",
+    "texto": "Porque cuando te miro a los ojos, veo mi futuro y me encanta lo que veo",
+    "emoji": "👀"
+  },
+  {
+    "id": 11,
+    "puntos_requeridos": 55,
+    "categoria": "divertida",
+    "texto": "Porque, y esto lo debes aceptar, soy bueno y mejoro cada vez más tomándote fotos, claramente tu belleza lo hace facilito",
+    "emoji": "📸"
+  },
+  {
+    "id": 12,
+    "puntos_requeridos": 60,
+    "categoria": "logro",
+    "texto": "Otra oportunidad de salidita para demostrarte que puedo ser bien divertido, y que te puedo hacer un poquito feliz",
+    "emoji": "🎉"
+  },
+  {
+    "id": 13,
+    "puntos_requeridos": 65,
+    "categoria": "divertida",
+    "texto": "Porque te puedo ayudar a hacer trabajitos de la U",
+    "emoji": "📚"
+  },
+  {
+    "id": 14,
+    "puntos_requeridos": 70,
+    "categoria": "divertida",
+    "texto": "Porque puedo hacerte apps divertidas para recuperarte",
+    "emoji": "💻"
+  },
+  {
+    "id": 15,
+    "puntos_requeridos": 75,
+    "categoria": "profunda",
+    "texto": "Porque me gustaría seguir creciendo a tu lado y seguir compartiendo contigo los frutos de todo lo que hago",
+    "emoji": "🌱"
+  },
+  {
+    "id": 16,
+    "puntos_requeridos": 80,
+    "categoria": "logro",
+    "texto": "Tengo la oportunidad de darte un besito en el cachete",
+    "emoji": "😘"
+  },
+  {
+    "id": 17,
+    "puntos_requeridos": 85,
+    "categoria": "profunda",
+    "texto": "Porque contigo descubrí qué es realmente importante en la vida y he aprendido la lección",
+    "emoji": "💎"
+  },
+  {
+    "id": 18,
+    "puntos_requeridos": 90,
+    "categoria": "profunda",
+    "texto": "Porque eres el amor de mi vida y no quiero imaginar un futuro sin ti",
+    "emoji": "💗"
+  },
+  {
+    "id": 19,
+    "puntos_requeridos": 95,
+    "categoria": "divertida",
+    "texto": "Porque entrenaré para ya no tener más pancita",
+    "emoji": "🏋️"
+  },
+  {
+    "id": 20,
+    "puntos_requeridos": 100,
+    "categoria": "logro",
+    "texto": "Tengo una oportunidad de volver contigo",
+    "emoji": "❤️"
+  }
+]

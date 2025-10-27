@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "nombre": "Una chocolataaa o gomitas dicas",
+    "costo": 20,
+    "emoji": "🍭",
+    "disponible": true
+  },
+  {
+    "id": 2,
+    "nombre": "Un cafecito para la niña más hermosa",
+    "costo": 30,
+    "emoji": "☕",
+    "disponible": true
+  },
+  {
+    "id": 6,
+    "nombre": "Fresitas con chocolate",
+    "costo": 40,
+    "emoji": "💝",
+    "disponible": true
+  },
+  {
+    "id": 7,
+    "nombre": "Cualquer cosita para que hagas una obra de arte",
+    "costo": 50,
+    "emoji": "👩‍🎨",
+    "disponible": true
+  },
+  {
+    "id": 3,
+    "nombre": "Aritos o accesorio lindo que se te vea bien cute",
+    "costo": 75,
+    "emoji": "💍",
+    "disponible": true
+  },
+  {
+    "id": 4,
+    "nombre": "Sushi, donde quieras y cuando quieras",
+    "costo": 90,
+    "emoji": "🍣",
+    "disponible": true
+  },
+  {
+    "id": 5,
+    "nombre": "Regalito del miniso",
+    "costo": 100,
+    "emoji": "🐧",
+    "disponible": true
+  },
+  {
+    "id": 8,
+    "nombre": "Una prenda de ropa que te guste mucho",
+    "costo": 150,
+    "emoji": "👗",
+    "disponible": true
+  }
+]

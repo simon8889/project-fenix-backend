@@ -1,0 +1,107 @@
+[
+  {
+    "id": 1,
+    "nombre": "Stereo Hearts",
+    "artista": "Gym Class Heroes ft. Adam Levine",
+    "link": "https://open.spotify.com/track/2wSoGMpAPPh7JnPvCbbwdT",
+    "motivo": "Esta canción me la dedicaste tú hace ya mucho tiempo, y definitivamente no puedo escucharla sin pensar en ti inmediatamente. Y definitivamente my heart beats for you 💕"
+  },
+  {
+    "id": 2,
+    "nombre": "Perfect",
+    "artista": "Ed Sheeran",
+    "link": "https://open.spotify.com/track/0tgVpDi06FyKpA1z0VMD4v",
+    "motivo": "Eres una mujer increíble, maravillosa y más que perfecta. Hay muchos momentos en mi cabeza en los que esta canción suena cuando te veo, siempre te ves perfecta 🥰"
+  },
+  {
+    "id": 3,
+    "nombre": "La Canción",
+    "artista": "J Balvin, Bad Bunny",
+    "link": "https://open.spotify.com/track/2ZBNclC5wm4GtiWaeh0DMx",
+    "motivo": "Jajaja no me encanta que esta canción esté aquí, pero cada que escucho esta canción y estás lejos me duele el corazoncito, y a este punto ya se me hace imposible olvidarte 😊"
+  },
+  {
+    "id": 4,
+    "nombre": "I Wanna Be Yours",
+    "artista": "Arctic Monkeys",
+    "link": "https://open.spotify.com/track/5XeFesFbtLpXzIVDNQP22n",
+    "motivo": "No quiero conocer, saber, o tener algo con alguien que no seas tú. En el mundo no existe niña más simpática, preciosa y que me encante más que TÚ 💙"
+  },
+  {
+    "id": 5,
+    "nombre": "Thinking Out Loud",
+    "artista": "Ed Sheeran",
+    "link": "https://open.spotify.com/track/1dfeR4HaWDbWqFHLkxsg1d",
+    "motivo": "Porque quiero envejecer contigo. Esta canción habla de un amor que dura para siempre, y eso es lo que quiero contigo mi amor 👫💕"
+  },
+  {
+    "id": 6,
+    "nombre": "All of Me",
+    "artista": "John Legend",
+    "link": "https://open.spotify.com/track/3U4isOIWM3VvDubwSI3y7a",
+    "motivo": "Porque te amo completita, con tus virtudes y defectos. Esta canción dice todo lo que siento: te daría todo de mí sin pensarlo dos veces 💝"
+  },
+  {
+    "id": 7,
+    "nombre": "UN RATITO +",
+    "artista": "FaceBrooklyn",
+    "link": "https://open.spotify.com/intl-es/track/2vCty4hAoeqMpu90X48FAM?si=8666771a20bf4fc8",
+    "motivo": "Tú me haces vivir, ¿y cómo le digo a los demás que el amor de mi vida ya no volverá? Quiero abrazarte un ratito más. ¿Le dejarías a mi corazón estar un ratito más al lado tuyo? 💖"
+  },
+  {
+    "id": 8,
+    "nombre": "Yellow",
+    "artista": "Coldplay",
+    "link": "https://open.spotify.com/track/3AJwUDP919kvQ9QcozQPxg",
+    "motivo": "Porque eres mi sol en los días nublados, la luz que ilumina mi camino y la razón por la que sonrío cada día. Eres mi todo 💛"
+  },
+  {
+    "id": 9,
+    "nombre": "Buscarte lejos",
+    "artista": "Duki",
+    "link": "https://open.spotify.com/intl-es/track/7b9hpzFQJaKUAAKsOeDafS?si=7c1fec3f9bf7486d",
+    "motivo": "Te busco en todos lados, eres demasiado como para ser real y te buscaría hasta en la luna para sentirte cerca una vez más 💕"
+  },
+  {
+    "id": 10,
+    "nombre": "Arrancamelo",
+    "artista": "Wos",
+    "link": "https://open.spotify.com/intl-es/track/2x8oBuYaObjqHqgGuIUZ0b?si=197af766b7714af3",
+    "motivo": "No tengo pensado no volver a intentar, prefiero morir en el intento que morir sin tu amor, así como cada vez que intento que se me ocurra un chiste para que sonrías un poquito 💖"
+  },
+  {
+    "id": 11,
+    "nombre": "Adan y Eva",
+    "artista": "Paulo Londra",
+    "link": "https://open.spotify.com/intl-es/track/7yCPwWs66K8Ba5lFuU2bcx?si=bb6f3f3f6b1e4f2e",
+    "motivo": "Contigo me siento en el paraíso, no necesito nada más que tu amor para ser feliz. 💞"
+  },
+  {
+    "id": 12,
+    "nombre": "Me desperté",
+    "artista": "Bhavi",
+    "link": "https://open.spotify.com/intl-es/track/11tiFhXEjwujQDbGaDbBkB?si=56f80210dab74d2b",
+    "motivo": "Quiero volver a despertarme en un mundo en el que te puedo decir que te amo todos los días. Espero que me digas que sí, hace mucho que contigo quiero salir 💘"
+  },
+  {
+    "id": 13,
+    "nombre": "Can't help falling in love",
+    "artista": "Elvis Presley",
+    "link": "https://open.spotify.com/intl-es/track/44AyOl4qVkzS48vBsbNXaC?si=a51afc1e4cc5455d",
+    "motivo": "La canción que amaría que sonara en nuestra boda mientras te tomo de la mano y tú tomas toda mi vida y mi existencia junto a ti 💕"
+  },
+  {
+    "id": 14,
+    "nombre": "November Rain",
+    "artista": "Guns N' Roses",
+    "link": "https://open.spotify.com/intl-es/track/3YRCqOhFifThpSRFJ1VWFM?si=bd7101862e8d42be",
+    "motivo": "A pesar de que no todo dura para siempre, mi amor por ti nunca se acabará y no quiero que nuestra relación se acabe nunca y mucho menos con October Rain 💖"
+  },
+  {
+    "id": 15,
+    "nombre": "YOKO",
+    "artista": "Alvaro Diaz",
+    "link": "https://open.spotify.com/intl-es/track/3KkXRkHbMCARz0aVfEt68P?si=1c3b2f2f6f5e4f2e",
+    "motivo": "La canción con la que te recuperé y tú me tienes loco desde el 2022, perdón por equivocarme tanto 💘"
+  }
+]
